@@ -27,8 +27,10 @@
     "@types/jest": "^27.4.1",
     "@types/node": "^16.6.1",
     "@types/sequelize": "^4.28.10",
+    "@types/supertest": "^2.0.12",
     "@types/validator": "^13.6.3",
     "jest": "^27.5.1",
+    "supertest": "^6.2.2",
     "ts-jest": "^27.1.4"
   }
 }
